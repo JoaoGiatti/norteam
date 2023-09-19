@@ -558,7 +558,7 @@ footer{
 /* ------ MEDIA SETTINGS MOBILE -------*/
 
 @media (max-width: 1024px) {
-    .nav {
+    .navbar{
         width: 100wh;
     }
     .nav-left {
