@@ -559,7 +559,7 @@ footer{
 
 @media (max-width: 1024px) {
     .navbar{
-        width: 100wh;
+        width: 100vw;
     }
     .nav-left {
         display: none;
