@@ -558,6 +558,9 @@ footer{
 /* ------ MEDIA SETTINGS MOBILE -------*/
 
 @media (max-width: 1024px) {
+    .nav {
+        width: 100wh;
+    }
     .nav-left {
         display: none;
     }
